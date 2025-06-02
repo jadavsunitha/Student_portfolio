@@ -41,3 +41,4 @@ Clean UI/UX improves form usability.
 # 🔹 Conclusion
 This project is a basic yet effective example of building a personal profile webpage. It demonstrates foundational skills in front-end development and offers a good starting point for portfolio or contact pages.
 
+![image_alt](https://github.com/jadavsunitha/Student_portfolio/blob/31833d6b20ed0cf6098f5781432c9e8f4ec86f28/Screenshot%202025-06-02%20105045.png)
